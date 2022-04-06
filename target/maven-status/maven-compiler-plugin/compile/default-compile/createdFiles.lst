@@ -1,0 +1,4 @@
+com\javaweb\dto\PostDTO.class
+com\javaweb\api\PostAPI.class
+com\javaweb\Application.class
+com\javaweb\entity\PostEntity.class
